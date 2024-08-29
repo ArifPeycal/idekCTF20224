@@ -1,4 +1,4 @@
-# idekCTF20224-Writeups
+# idekCTF2024-Writeups
 
 - Date: 17 Aug. 2024 — Mon, 19 Aug. 2024 
 - Duration: 48 hours
